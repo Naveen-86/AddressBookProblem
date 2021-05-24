@@ -42,16 +42,6 @@ public class AddressBookMain {
         d = scan.nextInt();
     }
 
-    //providing another option after deleting the object/person details
-    // static void AfterDeleteOption(){
-    //     Scanner newOpt = new Scanner(System.in);
-    //     System.out.println("Do you want to add new person's details?\n 1).Yes \n 2).No");
-    //     int opt = newOpt.nextInt();
-    //     if(opt == 1){
-    //         AddressBookMain.inputCall();
-    //     }
-    // }
-
     static void ToChangeDetails(Contacts obj){
         Scanner uc = new Scanner(System.in);
         System.out.println("Which one do you want to change? \n 1).First Name \n 2).Last Name \n 3).City \n 4).State \n 5).Zip \n 6).Phone Number \n 7).Email ID \n");
