@@ -1,6 +1,8 @@
-com/addressproblem/Contact.java
- com.addressproblem.Contact
+com/addressproblem/ScannerForUserInput.java
+ com.addressproblem.ScannerForUserInput
 com/addressproblem/AddressBookSimulator.java
  com.addressproblem.AddressBookSimulator
 com/addressproblem/ContactManager.java
  com.addressproblem.ContactManager
+com/addressproblem/Contact.java
+ com.addressproblem.Contact
